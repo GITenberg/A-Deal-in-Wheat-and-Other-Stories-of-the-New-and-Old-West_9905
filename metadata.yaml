@@ -1,0 +1,35 @@
+_repo: A-Deal-in-Wheat-and-Other-Stories-of-the-New-and-Old-West_9905
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Norris, Frank
+    alias: Norris, Benjamin Franklin
+    birthdate: 1870
+    deathdate: 1902
+    gutenberg_agent_id: '103'
+    url: http://www.gutenberg.org/2009/agents/103
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Norris
+description: Published after the author's untimely death, this 1904 collection includes
+  stories that originally appeared in publications between 1901 and 1903. The title
+  story was made into the film A Corner in Wheat. Also included are &#147;A Bargain
+  with Peg-Leg, &#147;Two Hearts that Beat as One, and &#147;The Dual Personality
+  of Slick Dick Nickerson.
+gutenberg_bookshelf: Western
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9905'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: A Deal in Wheat -- The Wife of Chino -- A Bargain with Peg-Leg --
+  The Passing of Cock-Eye Blacklock -- A Memorandum of Sudden Death -- Two Hearts
+  That Beat as One -- The Dual Personality of Slick Dick Nickerson -- The Ship That
+  Saw a Ghost -- The Ghost in the Crosstrees -- The Riding of Felipe.
+title: A Deal in Wheat and Other Stories of the New and Old West
+url: http://www.gutenberg.org/ebooks/9905
