@@ -1,5 +1,8 @@
 _repo: A-Deal-in-Wheat-and-Other-Stories-of-the-New-and-Old-West_9905
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Norris, Frank
@@ -14,6 +17,8 @@ description: Published after the author's untimely death, this 1904 collection i
   story was made into the film A Corner in Wheat. Also included are &#147;A Bargain
   with Peg-Leg, &#147;Two Hearts that Beat as One, and &#147;The Dual Personality
   of Slick Dick Nickerson.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9905#A-Deal-in-Wheat-and-Other-Stories-of-the-New-and-Old-West
 gutenberg_bookshelf: Western
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
